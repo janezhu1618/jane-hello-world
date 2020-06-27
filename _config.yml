@@ -7,7 +7,7 @@ twitter_username: jw8zhu
 github_username:  janezhu1618
 
 # Build settings
-theme: jekyll-theme-merlot
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
