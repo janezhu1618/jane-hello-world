@@ -1,0 +1,19 @@
+title: Jane's Test Site
+email: janezhu918@gmail.com
+description:
+  I am still thinking of an awesome description.
+  I am still thinking of an awesome description.
+  I am still thinking of an awesome description.
+  I am still thinking of an awesome description.
+  I am still thinking of an awesome description.
+  I am still thinking of an awesome description.
+  I am still thinking of an awesome description.
+baseurl: ""
+url: ""
+twitter_username: jw8zhu
+github_username:  janezhu1618
+repository: jane/jane.github.io
+
+theme: jekyll-theme-slate
+plugins:
+  - jekyll-feed
