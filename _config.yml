@@ -1,18 +1,12 @@
 title: Jane's Hello World
 email: janezhu918@gmail.com
 description: I love coding ❤️
-baseurl: "jane"
+baseurl: "jane-hello-world"
 url: ""
 twitter_username: jw8zhu
 github_username:  janezhu1618
 
 # Build settings
-remote_theme: mmistakes/minimal-mistakes
+theme: minima
 plugins:
   - jekyll-feed
-
-defaults:
-  - scope:
-      path: "assets/images"
-      values:
-        image: true
