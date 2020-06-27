@@ -2,9 +2,11 @@ title: Jane's Hello World
 email: janezhu918@gmail.com
 description: I love coding ❤️
 baseurl: "jane-hello-world"
-url: ""
+url: "https://janezhu1618.github.io"
 twitter_username: jw8zhu
 github_username:  janezhu1618
+
+permalink: /:title/
 
 # Build settings
 theme: minima
